@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AadharVerify", "AadharVerify\AadharVerify.csproj", "{45A5CC47-5B84-40AC-9B58-30B90C87D857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AadharVerifyTesting", "AadharVerifyTesting\AadharVerifyTesting.csproj", "{64E8E684-7C5C-43B7-938B-57E80D3D303A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A5CC47-5B84-40AC-9B58-30B90C87D857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A5CC47-5B84-40AC-9B58-30B90C87D857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A5CC47-5B84-40AC-9B58-30B90C87D857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A5CC47-5B84-40AC-9B58-30B90C87D857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E8E684-7C5C-43B7-938B-57E80D3D303A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E8E684-7C5C-43B7-938B-57E80D3D303A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E8E684-7C5C-43B7-938B-57E80D3D303A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E8E684-7C5C-43B7-938B-57E80D3D303A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD4A40F-20E1-41E3-98B6-795012798BA5}
+	EndGlobalSection
+EndGlobal

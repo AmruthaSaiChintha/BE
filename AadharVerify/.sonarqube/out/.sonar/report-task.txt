@@ -1,0 +1,6 @@
+projectKey=AadharVerify
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=AadharVerify
+ceTaskId=AYz3BDTQlQMV6eJLz70F
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYz3BDTQlQMV6eJLz70F
